@@ -1,0 +1,9 @@
+﻿<Application x:Class="ASP_13_Mr.WilsonSubsChallengeBen.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:ASP_13_Mr.WilsonSubsChallengeBen"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

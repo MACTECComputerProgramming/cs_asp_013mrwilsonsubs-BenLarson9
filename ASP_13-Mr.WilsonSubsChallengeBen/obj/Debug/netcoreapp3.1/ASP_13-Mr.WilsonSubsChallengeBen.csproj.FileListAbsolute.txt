@@ -1,0 +1,17 @@
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\obj\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.csprojAssemblyReference.cache
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\obj\Debug\netcoreapp3.1\App.g.cs
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\obj\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen_MarkupCompile.cache
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\obj\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen_MarkupCompile.lref
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\bin\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.exe
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\bin\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.deps.json
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\bin\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.runtimeconfig.json
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\bin\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.runtimeconfig.dev.json
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\bin\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.dll
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\bin\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.pdb
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\obj\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.g.resources
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\obj\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.AssemblyInfoInputs.cache
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\obj\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.AssemblyInfo.cs
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\obj\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.dll
+E:\gits\cs_asp_013mrwilsonsubs-BenLarson9\ASP_13-Mr.WilsonSubsChallengeBen\obj\Debug\netcoreapp3.1\ASP_13-Mr.WilsonSubsChallengeBen.pdb
